@@ -1,0 +1,5 @@
+alberto : 1
+hola : 2
+mundo : 2
+tanvir : 1
+tariq : 1
